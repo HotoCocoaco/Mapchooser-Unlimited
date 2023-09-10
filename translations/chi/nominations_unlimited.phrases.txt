@@ -1,0 +1,437 @@
+"Phrases"
+{
+	"NPrefix"
+	{
+		"chi"		"{green}[NU]{default}"
+	}
+
+	"Player Nominated"
+	{
+		"chi"		"{lightgreen}{1}{default} 预订了 {green}{2}"
+	}
+
+	"Player Nominated Replaced"
+	{
+		"chi"		"{lightgreen}{1}{default} 更改地图预订为 {green}{2}"
+	}
+
+	"Player Nominated Single"
+	{
+		"chi"		"{lightgreen}{1}{default} 预订了 {green}{2}{default} [1 投票]"
+	}
+
+	"Player Nominated Multiple"
+	{
+		"chi"		"{lightgreen}{1}{default} 预订了 {green} {2}{default} [{3} 投票]"
+	}
+
+	"Player Nominated Single Replaced"
+	{
+		"chi"		"{lightgreen}{1}{default} 更改地图预订为 {green}{2}{default} [1 投票]"
+	}
+
+	"Player Nominated Multiple Replaced"
+	{
+		"chi"		"{lightgreen}{1}{default} 更改地图预订为 {green}{2}{default} [{3} 投票]"
+	}
+
+	"Client Nominated Single"
+	{
+		"chi"		"你预订了 {green}{1}{default} [1 投票]"
+	}
+
+	"Client Nominated Multiple"
+	{
+		"chi"		"你预订了 {green}{1}{default} [{2} 投票]"
+	}
+
+	"Client Nominated Single Replaced"
+	{
+		"chi"		"你更改地图预订为 {green}{1}{default} [1 投票]"
+	}
+
+	"Client Nominated Multiple Replaced"
+	{
+		"chi"		"你更改地图预订为 {green}{1}{default} [{2} 投票]"
+	}
+	
+	"Current map"
+	{
+		"chi"		"你不能预订当前地图！"
+	}
+
+	"Current nomination"
+	{
+		"chi"		"你已经预订了 '{1}'"
+	}
+
+	"Already Inserted"
+	{
+		"chi"		"一名管理员插入 '{1}' 到下一次投票！"
+	}
+
+	"Already Nominated"
+	{
+		"chi"		"'{1}' 已经被预订了！"
+	}
+
+	"Admin Only Nominating"
+	{
+		"chi"		"'{1}' 只可以被管理员预订！"
+	}
+
+	"Map is on cooldown"
+	{
+		"chi"		"'{1}' 在 {2} 轮地图之后可被预订"
+	}
+
+	"Map is on cooldown - No Value"
+	{
+		"chi"		"'{1}' 最近已经玩过因而不可预订。"
+	}
+
+	"Map needs more players"
+	{
+		"chi"		"'{1}' 需要更多 {2} 玩家才可以预订！"
+	}
+
+	"Map needs fewer players"
+	{
+		"chi"		"'{1}' 需要更少 {2} 玩家才可以预订！"
+	}
+
+	"Nominate Time Restriction - Hours"
+	{
+		"chi"		"'{1}' 预订冷却剩余时间 {2} 小时 {3} 分钟。"
+	}
+
+	"Nominate Time Restriction - Minutes"
+	{
+		"chi"		"'{1}' 预订冷却剩余时间 {2} 分钟。"
+	}
+
+	"Error Nominating"
+	{
+		"chi"		"预订 '{1}' 时发生错误。"
+	}
+
+	"Error Inserting"
+	{
+		"chi"		"插入 '{1}' 时发生错误。"
+	}
+
+	"Nominate Menu Title"
+	{
+		"chi"		"选择一个地图预订"
+	}
+
+	"Menu Current Map"
+	{
+		"chi"		"[当前地图]"
+	}
+
+	"Menu Current Nom"
+	{
+		"chi"		"[你的预订]"
+	}
+
+	"Menu Nominated"
+	{
+		"chi"		"[已预订]"
+	}
+
+	"Menu Inserted"
+	{
+		"chi"		"[已插入]"
+	}
+
+	"Menu Cooldown"
+	{
+		"chi"		"[冷却: {1} 地图]"
+	}
+
+	"Menu Cooldown - No Value"
+	{
+		"chi"		"[最近玩过]"
+	}
+
+	"Menu Not Enough Players"
+	{
+		"chi"		"[玩家 +{1}]"
+	}
+
+	"Menu Too Many Players"
+	{
+		"chi"		"[玩家 -{1}]"
+	}
+
+	"Menu Time"
+	{
+		"chi"		"[等 {1}H {2}M]"
+	}
+
+	"Menu Admin Only"
+	{
+		"chi"		"[仅限管理员]"
+	}
+
+	"Menu Group Max"
+	{
+		"chi"		"[组最大: {1}]"
+	}
+
+	"Insert Menu Title"
+	{
+		"chi"		"选择地图插入"
+	}
+
+	"Map inserted"
+	{
+		"chi"		"{lightgreen}{1}{default} 插入 {green}{2}{default} 到地图投票。"
+	}
+
+	"Nominating not unlocked"
+	{
+		"chi"		"预订解锁时间 {1} 秒。"
+	}
+
+	"Wait to nominate"
+	{
+		"chi"		"你要再等 {1} 秒再预订。"
+	}
+
+	"Cannot Nominate - Vote Complete"
+	{
+		"chi"		"下一张地图已经被投票了。"
+	}
+
+	"Cannot Nominate - Vote In Progress"
+	{
+		"chi"		"下一张地图的投票目前正在进行中。你现在不能预订。"
+	}
+
+	"Cannot Nominate - Vote Full"
+	{
+		"chi"		"预订列表已经满了！你不能预订。"
+	}
+
+	"Cannot insert - Vote In Progress"
+	{
+		"chi"		"下一张地图的投票目前正在进行中。你现在不能插入地图。"
+	}
+
+	"Nomination Removed - UnNominated"
+	{
+		"chi"		"你移除了预订 {green}{1}。"
+	}
+	
+	"Nomination Removed - Not Enough Players"
+	{
+		"chi"		"你的预订 {green}{1}{default} 因为玩家不足被移除。"
+	}
+	
+	"Nomination Removed - Too Many Players"
+	{
+		"chi"		"你的预订 {green}{1}{default} 因为玩家过多被移除。"
+	}
+	
+	"Nomination Removed - Time"
+	{
+		"chi"		"你的预订 {green}{1}{default} 因为还处于禁用时间被移除。"
+	}
+
+	"Unable To Unnominate"
+	{
+		"chi"		"你还没有预订地图。"
+	}
+	
+	"Unable To Unnominate Admin"
+	{
+		"chi"		"{lightgreen}{1}{default} 还没有预订地图。"
+	}
+
+	"Nomlist Menu Title"
+	{
+		"chi"		"预订地图"
+	}
+
+	"Nomlist Menu No Maps"
+	{
+		"chi"		"未预订地图。"
+	}
+	
+	"Nomlist Menu Inserted"
+	{
+		"chi"		"{1} [管理员]"
+	}
+	
+	"Nomlist Menu Single Vote"
+	{
+		"chi"		"{1} [1 投票]"
+	}
+	
+	"Nomlist Menu Multiple Votes"
+	{
+		"chi"		"{1} [{2} 投票]"
+	}
+	
+	"Nomlist Menu Owner"
+	{
+		"chi"		"{1} [{2}]"
+	}
+	
+	"NombanList Client Not Valid"
+	{
+		"chi"		"那个客户端已经失效了。"
+	}
+
+	"Nominators Menu Title"
+	{
+		"chi"		"{1} 预订人"
+	}
+
+	"NomStatus Menu Title"
+	{
+		"chi"		"预订封禁: {1}"
+	}
+
+	"Menu - Not Nombanned"
+	{
+		"chi"		"无预订封禁"
+	}
+
+	"Menu - Nomban Duration"
+	{
+		"chi"		"持续时间: {1}"
+	}
+
+	"Menu - Nomban end"
+	{
+		"chi"		"结束日期: {1}"
+	}
+
+	"Menu - Nomban timeleft"
+	{
+		"chi"		"剩余时间: {1}"
+	}
+
+	"Menu - Nomban Admin"
+	{
+		"chi"		"管理员: {1}"
+	}
+
+	"UnInsert Usage"
+	{
+		"chi"		"用法: sm_uninsert <map>"
+	}
+
+	"Map Uninserted"
+	{
+		"chi"		"{lightgreen}{1}{default} 移除 {green}{2}{default} 出地图投票。"
+	}
+
+	"Failed to uninsert"
+	{
+		"chi"		"从预订列表移除 '{1}' 失败。"
+	}
+
+	"RemoveNom Usage"
+	{
+		"chi"		"用法: sm_removenom <target>"
+	}
+
+	"Nomination Removed - Admin Removed"
+	{
+		"chi"		"一名管理员移除了你的预订 {green}{1}"
+	}
+
+	"Nomban usage"
+	{
+		"chi"		"用法: sm_nomban <target> <duration (in minutes)>"
+	}
+
+	"Already nombanned"
+	{
+		"chi"		"{1} 已经被预订封禁！"
+	}
+
+	"Nombanned permanent"
+	{
+		"chi"		"封禁预订 {1} 永久。"
+	}
+
+	"Nominating Disabled"
+	{
+		"chi"		"管理员禁用了地图预订。"
+	}
+
+	"Nominating already disabled"
+	{
+		"chi"		"预订已经被禁用了。"
+	}
+
+	"Nominating Enabled"
+	{
+		"chi"		"管理员启用了地图预订。"
+	}
+
+	"Nominating already enabled"
+	{
+		"chi"		"预订已经被启用了。"
+	}
+
+	"Cannot nominate - Nombanned"
+	{
+		"chi"		"你不能预订一张地图，因为你已经被禁止了。使用{green}!nomstatus {default}获取更多信息。"
+	}
+
+	"Nombanned"
+	{
+		"chi"		"禁止预订 {1} 持续 {2} 分钟"
+	}
+
+	"Nomination removed on nomban"
+	{
+		"chi"		"你的预订因为你被禁止预订而移除了。"
+	}
+
+	"UnNomban usage"
+	{
+		"chi"		"用法: sm_unnomban <target>"
+	}
+
+	"Already not nombanned"
+	{
+		"chi"		"{1} 已经没被封禁预订了！"
+	}
+
+	"UnNombanned"
+	{
+		"chi"		"解封预订 {1}"
+	}
+
+	"Menu Got UnNombanned"
+	{
+		"chi"		"你被解封预订。"
+	}
+
+	"Cookies are not cached"
+	{
+		"chi"		"Cookie未加载，请稍等。"
+	}
+
+	"Can only use command in game"
+	{
+		"chi"		"此命令只能在游戏中使用。"
+	}
+
+	"Nominate"
+	{
+		"chi"		"预订"
+	}
+
+	"Unnominate"
+	{
+		"chi"		"取消预订"
+	}
+}

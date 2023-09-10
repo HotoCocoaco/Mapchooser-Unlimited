@@ -1,0 +1,168 @@
+"Phrases"
+{	
+	"Prefix"
+	{
+		"chi"		"{darkred}[MCU]{default}"
+	}
+
+	"Initiated Map Vote"
+	{
+		"chi"		"发起地图投票"
+	}
+
+	"Vote started"
+	{
+		"chi"		"下一张地图的投票已经开始了。"
+	}
+
+	"Runoff Vote started"
+	{
+		"chi"		"下一张地图的投票已经开始了。"
+	}
+
+	"Nextmap Voting Finished"
+	{
+		"chi"		"地图投票已结束. 下一幅地图将为 {1}. ( 得票{2}%% , {3}票)"
+	}
+
+	"Vote End - No Votes"
+	{
+		"chi"		"没有收到投票！下一地图设置为 {green}{1}。"
+	}
+	
+	"Vote Warning"
+	{
+		"chi"		"警告！下一张地图的投票将于 {1} 秒开始"
+	}
+
+	"Revote Warning"
+	{
+		"chi"		"决选投票将于 {1} 秒后开始"
+	}
+
+	"Tie Vote"
+	{
+		"chi"		"排名前 {1} 的地图拥有相同的票数。\n需要一次重新投票！"
+	}
+
+	"Revote is needed"
+	{
+		"chi"		"没有地图获得超过 {1}%% 的选票\n需要一次重新投票！"
+	}
+
+	"Current Map Extended"
+	{
+		"chi"		"当前地图已被延长( 得票{2}%% , {3}票)"
+	}
+	
+	"Current Map Stays"
+	{
+		"chi"		"当前地图已被延长! 投票显示! (得票 {1}%% 共 {2} 票)"
+	}
+
+	"Menu - Vote Nextmap"
+	{
+		"chi"		"投票下一张地图！"
+	}
+	
+	"Extend Map"
+	{
+		"chi"		"延长地图"
+	}
+
+	"Dont Change"
+	{
+		"chi"		"请勿更改"
+	}
+
+	"Random Map"
+	{
+		"chi"		"随机地图"
+	}
+
+	"Map was not found"
+	{
+		"chi"		"找不到地图 '{1}' 。"
+	}
+
+	"Setnextmap Usage"
+	{
+		"chi"		"用法: sm_setnextmap <map|_random>"
+	}
+
+	"Changed Next Map"
+	{
+		"chi"		"更换下一幅地图为 \"{1}\"."
+	}
+
+	"Config reload successful"
+	{
+		"chi"		"成功重新加载配置。"
+	}
+
+	"Config reload unsuccessful"
+	{
+		"chi"		"重新加载配置失败。有关详细信息，请参阅日志。"
+	}
+
+	"Maplist reload successful"
+	{
+		"chi"		"成功重新加载地图列表。"
+	}
+
+	"Maplist reload unsuccessful"
+	{
+		"chi"		"重新加载地图列表失败。有关详细信息，请参阅日志。"
+	}
+
+	"Exclude Map Usage"
+	{
+		"chi"		"用法: sm_excludemap <map> [value] (如果没有指定值，则使用配置值)"
+	}
+
+	"Exclude Map Set"
+	{
+
+		"chi"		"设置地图 '{1}' 冷却为 {2}。"
+	}
+
+	"Exclude Map Value Error"
+	{
+		"chi"		"输入的值必须大于0。"
+	}
+
+	"Extends Left"
+	{
+		"chi"		"已使用延长: {1}/{2} ({3} 剩余)"
+	}
+
+	"Clear cooldown usage"
+	{
+		"chi"		"用法: sm_clearcd <map>"
+	}
+
+	"Map not on cooldown"
+	{
+		"chi"		"地图 {1} 当前未在冷却。"
+	}
+
+	"Map cooldown cleared"
+	{
+		"chi"		"清理地图冷却: {green}{1}"
+	}
+
+	"Nominated by"
+	{
+		"chi"		"由此玩家预订:"
+	}
+
+	"No One Nominated"
+	{
+		"chi"		"下一张地图没有被任何玩家预订。"
+	}
+
+	"Random Nextmap"
+	{
+		"chi"		"下一张地图是随机选择的。"
+	}
+}
